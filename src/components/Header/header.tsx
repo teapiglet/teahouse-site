@@ -9,7 +9,7 @@ export default function Header(props: HeaderProps) {
         <div className="Header" style={{backgroundColor: props.color}}>
             <div className="header-title">
                 <span className="teahouse-name">
-                    Header
+                    Tea House Piglet
                 </span>
             </div>
         </div>
