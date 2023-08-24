@@ -1,5 +1,15 @@
+body,
+html {
+  margin:0;
+  padding:0;
+  color:#000;
+  background:#e7cba8;
+}
+
 .App {
   text-align: center;
+  //height: 100%;
+  //background-color: #e7cba8;
 }
 
 .App-logo {

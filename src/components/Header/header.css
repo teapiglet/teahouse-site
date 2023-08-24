@@ -1,0 +1,15 @@
+.Header {
+    height: 100px;
+}
+
+.header-title {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.teahouse-name {
+    color: #911010;
+    font-size: xx-large;
+}
